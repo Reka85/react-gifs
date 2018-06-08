@@ -20,6 +20,7 @@ body {
     box-shadow: none;
     &:focus {
       box-shadow: none;
+      border: 3px solid rgb(220,220,220);
     }
   }
 
